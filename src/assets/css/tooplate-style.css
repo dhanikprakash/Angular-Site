@@ -13,7 +13,6 @@ http://www.tooplate.com/view/2099-scenic
 }
 .collapse-active {
   display: block !important;
-  background: black !important;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700');
@@ -330,7 +329,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-toggle {
-  background-color: transparent;
+  background-color: darkslategray;
 }
 
 .custom-navbar .navbar-toggle .icon-bar {

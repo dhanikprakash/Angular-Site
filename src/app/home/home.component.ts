@@ -46,7 +46,7 @@ export class HomeComponent implements OnInit {
     fuseConfig: any;
     navigation: any;
     imageUrls: (string | IImage)[] = [
-        {url: 'assets/images/1.png', caption: 'Plastic Surgeion <br/> Sarath (MS, Mch)'},
+        {url: 'assets/images/1.png', caption: 'Plastic Surgeon <br/> Sarath (MS, Mch)'},
         {url: 'assets/images/2.png', caption: 'Hair Transplant Surgeon <br/> Sreelal (MS)'},
     ];
     height: string = '100vh';
